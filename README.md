@@ -31,8 +31,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
  <a name='questions'></a>
  ## Questions 
 
-GitHub Profile: https://github.com/sean-mcelwain.  
  
+Email: sean.mcelwain.KUBootcamp@gmail.com.  
  
 For any question regarding this project, my preferred method of communication is via email. 
  
