@@ -1,4 +1,4 @@
-# Random Password Generator - Read ME
+# Random Password Generator - Read Me
 <a name='description'></a>
 ## Description
 
