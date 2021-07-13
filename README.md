@@ -13,6 +13,10 @@ This is a WebPage containing a Password Generation Utility that allows a user to
  4. [ Questions. ](#questions)  
  5. [ Screenshot. ](#screenshot) 
 
+ <a name='usage'></a>
+ ## Usage 
+This web application is deployed via GitHub and accessible for use at the URL above.
+
 # Screenshot:
 
 ![Screenshot](https://sean-mcelwain.github.io/password-generator_SM/assets/images/screenshot.jpg)
